@@ -1,0 +1,2 @@
+# PersonalityDiagnosis
+診断メーカーです。あなたの良いところを診断してTweetすることができます。
